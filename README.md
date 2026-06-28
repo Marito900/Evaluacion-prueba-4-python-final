@@ -15,6 +15,4 @@ El programa valida que:
 - Las copias sean un número entero mayor o igual a 0.
 - El período de préstamo sea un número entero mayor que 0.
 
-- Python 3
-
 Mario  Durán Pérez
